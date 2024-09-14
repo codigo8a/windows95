@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: https://codigo8a.github.io/windows95
-baseurl: /project
+baseurl: /windows95
 
 # variables
 name: Your Site Name
