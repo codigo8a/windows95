@@ -6,7 +6,7 @@ tags: tag1 tag2 tag3 tag4
 
 ## Lorem Ipsum
 
-```javascript
+```
 console.log('pepe');
 ```
 
