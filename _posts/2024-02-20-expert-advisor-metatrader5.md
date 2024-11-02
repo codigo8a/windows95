@@ -3,8 +3,8 @@ layout: post
 title:  "Cómo crear un Expert Advisor metatrader 5"
 description: "Cómo crear un Expert Advisor para metatrader 5"
 comments: true
-category: Tutoriales
-tags: Tutoriales Trucos
+category: tutoriales
+tags: tutoriales herramientas
 youtube: https://youtu.be/ScwqUMKhNm4
 ---
 Código paso a paso para crear un expert advisor que nos ayude a administrar las posiciones que vamos abriendo manualmente.
@@ -21,7 +21,7 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 
 4. Copiar codigo:
    
-```C#
+```csharp
 //+------------------------------------------------------------------+
 //|                                                      vikingo.mq5 |
 //|                                  Copyright 2023, MetaQuotes Ltd. |

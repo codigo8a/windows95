@@ -3,8 +3,8 @@ layout: post
 title:  "Cómo crear página web en Github Pages"
 description: "Cómo crear página web en Github Pages con dominio personalizado"
 comments: true
-category: Tutoriales
-tags: Tutoriales Trucos
+category: tutoriales
+tags: tutoriales web herramientas
 youtube: https://youtu.be/ScwqUMKhNm4
 ---
 Código paso a paso para crear una pagina web usando el hosting gratuito de Github Pages, con dominio personalizado y certificado SSL.
@@ -22,7 +22,7 @@ En <a target="_blank" href="{{ page.youtube }}">mi canal de youtube</a> hay un v
 
 3. Configurar dominio
 - Crear DNS personalizados
-```C#
+```csharp
 185.199.108.153
 185.199.109.153
 185.199.110.153
